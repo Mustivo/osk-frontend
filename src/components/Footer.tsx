@@ -48,6 +48,11 @@ const linkGroups: FooterLinkGroup[] = [
         external: true,
       },
       {
+        label: "Whatsapp",
+        to: "https://chat.whatsapp.com/GimdjJcYLyyG62zpgsI0zB",
+        external: true,
+      },
+      {
         label: "LinkedIn",
         to: "https://www.linkedin.com/company/open-source-kigali/?viewAsMember=true",
         external: true,
